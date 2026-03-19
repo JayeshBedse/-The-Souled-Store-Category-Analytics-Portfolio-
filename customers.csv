@@ -1,0 +1,301 @@
+customer_id,customer_name,gender,age,city,state,city_tier,acquisition_channel,acquisition_date,total_orders,total_spend_inr,avg_order_value,last_order_date,loyalty_segment,email_opt_in,whatsapp_opt_in,preferred_category,preferred_size
+CUST-0001,Aditya Mishra,Male,22,Hyderabad,Telangana,Metro,Offline (Studio Store),2021-05-28,26,24266.0,933.0,2021-07-19,Champion,False,True,Anime,L
+CUST-0002,Priya Nair,Female,21,Kolkata,West Bengal,Metro,D2C Website,2021-06-27,2,2057.0,1028.0,2024-06-08,At Risk,True,True,Music,S
+CUST-0003,Saurabh Pillai,Male,27,Mumbai,Maharashtra,Metro,Myntra,2021-03-29,20,16834.0,842.0,2024-02-29,Champion,True,True,Marvel,L
+CUST-0004,Madhuri Kapoor,Female,20,Jaipur,Rajasthan,Tier1,D2C Website,2022-05-23,22,20203.0,918.0,2024-11-16,Champion,True,False,Friends,XXL
+CUST-0005,Aditya Agarwal,Male,30,Surat,Gujarat,Tier1,D2C Website,2023-07-02,21,40436.0,1926.0,2024-11-30,Champion,True,True,Sports,S
+CUST-0006,Pooja Bhatt,Female,31,Delhi,Delhi,Metro,D2C Website,2020-08-22,28,59706.0,2132.0,2021-11-05,Champion,True,False,Music,L
+CUST-0007,Sakshi Pandey,Female,29,Hyderabad,Telangana,Metro,D2C Website,2020-07-13,11,16340.0,1485.0,2021-12-17,Loyal,True,True,Sports,L
+CUST-0008,Karan Hegde,Male,22,Delhi,Delhi,Metro,D2C Website,2020-06-23,3,4177.0,1392.0,2022-07-26,Potential Loyalist,True,True,Basics,M
+CUST-0009,Swati Patel,Female,41,Pune,Maharashtra,Tier1,Myntra,2022-04-21,12,28019.0,2335.0,2024-09-03,Champion,False,False,Harry Potter,M
+CUST-0010,Pooja Bansal,Female,21,Chennai,Tamil Nadu,Metro,Amazon,2022-11-05,7,7446.0,1064.0,2024-02-07,Loyal,True,True,DC,S
+CUST-0011,Payal Gupta,Female,37,Kolkata,West Bengal,Metro,D2C Website,2022-05-28,28,59110.0,2111.0,2022-07-20,Champion,True,True,Harry Potter,S
+CUST-0012,Nikhil Agarwal,Male,22,Nagpur,Maharashtra,Tier2,Offline (Studio Store),2021-09-24,30,39980.0,1333.0,2022-09-30,Champion,True,True,Friends,XL
+CUST-0013,Karan Chauhan,Male,23,Bengaluru,Karnataka,Metro,D2C Website,2022-12-22,7,10043.0,1435.0,2024-11-19,Loyal,True,True,Original Art,L
+CUST-0014,Siddharth Mehta,Male,26,Pune,Maharashtra,Tier1,D2C Website,2020-11-14,6,10198.0,1700.0,2021-04-30,Loyal,True,True,Original Art,L
+CUST-0015,Pallavi Agarwal,Female,21,Mumbai,Maharashtra,Metro,Nykaa Fashion,2021-03-17,25,38659.0,1546.0,2023-08-14,Champion,True,True,Sports,M
+CUST-0016,Sneha Gupta,Female,24,Ahmedabad,Gujarat,Tier1,D2C Website,2022-03-20,20,13841.0,692.0,2023-11-27,Champion,True,True,Harry Potter,L
+CUST-0017,Pooja Sharma,Female,35,Chennai,Tamil Nadu,Metro,D2C Website,2022-10-15,24,34252.0,1427.0,2024-11-30,Champion,True,True,Music,XXL
+CUST-0018,Mohit Jain,Male,28,Gurgaon,Haryana,Tier1,Nykaa Fashion,2020-03-27,14,10207.0,729.0,2020-09-02,Champion,True,True,Movies & TV,XL
+CUST-0019,Pooja Kapoor,Female,40,Kolkata,West Bengal,Metro,Nykaa Fashion,2020-02-12,11,12606.0,1146.0,2022-09-11,Loyal,True,False,DC,S
+CUST-0020,Deepak Bansal,Male,41,Delhi,Delhi,Metro,D2C Website,2022-03-31,17,14179.0,834.0,2023-12-26,Champion,True,False,Friends,M
+CUST-0021,Parth Soni,Male,29,Hyderabad,Telangana,Metro,D2C Website,2020-08-21,17,26925.0,1584.0,2022-08-06,Champion,True,True,Friends,XL
+CUST-0022,Vikram Singh,Male,23,Bengaluru,Karnataka,Metro,D2C Website,2021-06-08,7,7612.0,1087.0,2021-11-09,Loyal,True,True,Sports,L
+CUST-0023,Swati Bhat,Female,38,Delhi,Delhi,Metro,Myntra,2023-03-02,21,48154.0,2293.0,2024-11-30,Champion,True,True,Sports,S
+CUST-0024,Ishita Kumar,Female,27,Patna,Bihar,Tier2,Flipkart,2021-07-16,19,14797.0,779.0,2021-12-14,Champion,True,False,Music,M
+CUST-0025,Anjali Soni,Female,36,Mumbai,Maharashtra,Metro,Myntra,2020-07-03,20,38401.0,1920.0,2023-02-05,Champion,True,True,Marvel,L
+CUST-0026,Roshni Bhatt,Female,34,Noida,Uttar Pradesh,Tier1,Flipkart,2023-03-16,21,21565.0,1027.0,2024-11-30,Champion,False,False,DC,S
+CUST-0027,Yamini Verma,Female,32,Bengaluru,Karnataka,Metro,D2C Website,2022-10-30,21,19056.0,907.0,2024-11-30,Champion,True,True,Music,XL
+CUST-0028,Roshni Kumar,Female,38,Ahmedabad,Gujarat,Tier1,D2C Website,2022-03-04,14,20534.0,1467.0,2022-06-19,Champion,True,False,DC,S
+CUST-0029,Tanvi Agarwal,Female,20,Bengaluru,Karnataka,Metro,D2C Website,2023-09-06,30,64517.0,2151.0,2024-11-30,Champion,True,False,Music,L
+CUST-0030,Ishita Wagh,Female,27,Ahmedabad,Gujarat,Tier1,Myntra,2023-09-18,13,12889.0,991.0,2024-03-09,Champion,True,True,Music,M
+CUST-0031,Raj Wagh,Male,29,Mumbai,Maharashtra,Metro,Flipkart,2022-12-14,3,6379.0,2126.0,2024-11-30,Potential Loyalist,False,False,Anime,L
+CUST-0032,Preeti Iyer,Female,21,Chennai,Tamil Nadu,Metro,Flipkart,2021-01-28,8,7036.0,880.0,2022-09-25,Loyal,True,True,Basics,L
+CUST-0033,Raj Joshi,Male,23,Chennai,Tamil Nadu,Metro,Amazon,2023-06-19,5,9259.0,1852.0,2024-05-16,Potential Loyalist,True,True,Friends,XS
+CUST-0034,Sneha Pandey,Female,37,Mumbai,Maharashtra,Metro,D2C Website,2022-01-16,22,44042.0,2002.0,2024-07-13,Champion,True,True,Sports,L
+CUST-0035,Akash Gupta,Male,29,Bengaluru,Karnataka,Metro,Amazon,2021-09-25,26,48391.0,1861.0,2022-10-27,Champion,True,True,Sports,XL
+CUST-0036,Preeti Kumar,Female,24,Delhi,Delhi,Metro,Amazon,2022-02-21,17,29522.0,1737.0,2023-01-18,Champion,True,False,Harry Potter,L
+CUST-0037,Rahul Iyer,Male,21,Delhi,Delhi,Metro,D2C Website,2022-01-30,18,17419.0,968.0,2024-11-30,Champion,True,True,Harry Potter,M
+CUST-0038,Sunita Pillai,Female,32,Delhi,Delhi,Metro,Nykaa Fashion,2020-10-28,27,37790.0,1400.0,2022-01-25,Champion,True,True,Movies & TV,XL
+CUST-0039,Mohit Pillai,Male,25,Ahmedabad,Gujarat,Tier1,Myntra,2022-02-04,8,13688.0,1711.0,2024-03-12,Loyal,False,True,Music,XL
+CUST-0040,Aditya Mehta,Male,42,Delhi,Delhi,Metro,Myntra,2021-08-10,30,52952.0,1765.0,2022-05-21,Champion,True,True,Marvel,L
+CUST-0041,Arjun Agarwal,Male,31,Kochi,Kerala,Tier1,Myntra,2021-03-17,27,27560.0,1021.0,2024-03-01,Champion,False,False,Harry Potter,M
+CUST-0042,Rohit Gupta,Male,33,Mumbai,Maharashtra,Metro,D2C Website,2022-05-09,21,40941.0,1950.0,2022-12-22,Champion,True,False,Basics,M
+CUST-0043,Aman Singh,Male,36,Kochi,Kerala,Tier1,Myntra,2021-08-19,14,10181.0,727.0,2022-12-24,Champion,True,True,DC,XS
+CUST-0044,Anjali Pillai,Female,33,Chennai,Tamil Nadu,Metro,Amazon,2023-01-19,17,30043.0,1767.0,2024-11-30,Champion,False,True,Music,M
+CUST-0045,Richa Sharma,Female,42,Mumbai,Maharashtra,Metro,D2C Website,2022-01-01,26,20774.0,799.0,2022-08-01,Champion,True,True,Friends,XXL
+CUST-0046,Harsh Mishra,Male,40,Bengaluru,Karnataka,Metro,Amazon,2021-11-24,27,49126.0,1819.0,2024-07-02,Champion,True,False,Friends,L
+CUST-0047,Aman Trivedi,Male,19,Hyderabad,Telangana,Metro,Offline (Studio Store),2022-07-26,2,2367.0,1184.0,2023-09-07,Lost,True,False,Movies & TV,XXL
+CUST-0048,Shruti Mehta,Female,38,Delhi,Delhi,Metro,Amazon,2023-08-17,7,8609.0,1230.0,2023-11-22,Loyal,True,False,Music,M
+CUST-0049,Sunita Kapoor,Female,33,Bengaluru,Karnataka,Metro,D2C Website,2022-06-19,29,41151.0,1419.0,2023-07-06,Champion,True,True,Basics,L
+CUST-0050,Shriya Verma,Female,35,Pune,Maharashtra,Tier1,D2C Website,2022-05-19,3,4889.0,1630.0,2023-05-23,Potential Loyalist,True,False,Music,M
+CUST-0051,Tanvi Rao,Female,29,Chandigarh,Punjab,Tier1,D2C Website,2023-05-19,23,32540.0,1415.0,2024-11-30,Champion,True,True,Music,S
+CUST-0052,Shruti Soni,Female,34,Pune,Maharashtra,Tier1,Offline (Studio Store),2020-04-27,3,6479.0,2160.0,2022-05-11,Potential Loyalist,True,True,Marvel,M
+CUST-0053,Rohan Khanna,Male,25,Jaipur,Rajasthan,Tier1,Flipkart,2023-10-20,26,35727.0,1374.0,2024-03-05,Champion,True,True,Movies & TV,M
+CUST-0054,Ashwin Singh,Male,36,Noida,Uttar Pradesh,Tier1,Amazon,2023-10-22,15,21045.0,1403.0,2024-03-27,Champion,False,True,Music,L
+CUST-0055,Meera Patel,Female,35,Ahmedabad,Gujarat,Tier1,Amazon,2020-02-23,24,25937.0,1081.0,2022-04-25,Champion,False,True,Sports,S
+CUST-0056,Ashwin Kumar,Male,32,Surat,Gujarat,Tier1,D2C Website,2022-10-02,7,5930.0,847.0,2023-03-02,Loyal,False,True,DC,S
+CUST-0057,Swati Shah,Female,23,Mumbai,Maharashtra,Metro,Amazon,2020-05-12,18,30531.0,1696.0,2022-01-16,Champion,True,True,Friends,L
+CUST-0058,Komal Gupta,Female,18,Mumbai,Maharashtra,Metro,Amazon,2020-09-05,7,6344.0,906.0,2023-06-13,Loyal,True,True,Sports,M
+CUST-0059,Ashwin Saxena,Male,34,Ahmedabad,Gujarat,Tier1,D2C Website,2020-06-25,3,3877.0,1292.0,2023-03-02,Potential Loyalist,True,True,Original Art,L
+CUST-0060,Aditya Joshi,Male,29,Hyderabad,Telangana,Metro,Nykaa Fashion,2023-08-08,3,4813.0,1604.0,2024-11-30,Potential Loyalist,False,True,Basics,S
+CUST-0061,Yash Singh,Male,22,Bengaluru,Karnataka,Metro,D2C Website,2022-06-05,17,15195.0,894.0,2024-11-30,Champion,True,False,Anime,XL
+CUST-0062,Komal Saxena,Female,22,Bhopal,Madhya Pradesh,Tier2,D2C Website,2021-08-04,28,22304.0,797.0,2023-02-17,Champion,True,True,DC,L
+CUST-0063,Vivaan Bansal,Male,36,Kochi,Kerala,Tier1,Amazon,2020-11-11,6,12753.0,2126.0,2022-10-03,Loyal,False,True,DC,L
+CUST-0064,Rahul Trivedi,Male,37,Delhi,Delhi,Metro,D2C Website,2023-03-27,9,16710.0,1857.0,2024-11-30,Loyal,True,True,Basics,XL
+CUST-0065,Ishita Kumar,Female,20,Bhopal,Madhya Pradesh,Tier2,Flipkart,2022-09-16,8,16342.0,2043.0,2024-11-30,Loyal,True,False,Movies & TV,M
+CUST-0066,Divya Reddy,Female,41,Bengaluru,Karnataka,Metro,Flipkart,2021-11-27,20,18762.0,938.0,2023-09-11,Champion,True,False,Movies & TV,XL
+CUST-0067,Yash Shah,Male,21,Bhopal,Madhya Pradesh,Tier2,Flipkart,2022-11-20,18,15610.0,867.0,2024-11-30,Champion,True,False,DC,L
+CUST-0068,Kartik Kapoor,Male,28,Mumbai,Maharashtra,Metro,D2C Website,2023-06-14,14,19259.0,1376.0,2024-05-06,Champion,True,True,Anime,XL
+CUST-0069,Tarun Pillai,Male,30,Kolkata,West Bengal,Metro,D2C Website,2022-08-14,16,21279.0,1330.0,2023-02-14,Champion,True,True,Anime,S
+CUST-0070,Sneha Mehta,Female,27,Ahmedabad,Gujarat,Tier1,D2C Website,2021-07-30,16,34297.0,2144.0,2024-03-19,Champion,True,True,Movies & TV,S
+CUST-0071,Siddharth Agarwal,Male,19,Chennai,Tamil Nadu,Metro,Flipkart,2022-01-19,25,36592.0,1464.0,2024-04-18,Champion,True,False,Basics,L
+CUST-0072,Anjali Kapoor,Female,22,Delhi,Delhi,Metro,Flipkart,2022-10-29,15,25580.0,1705.0,2023-06-29,Champion,True,True,Music,M
+CUST-0073,Preeti Singh,Female,19,Bengaluru,Karnataka,Metro,Flipkart,2021-02-11,20,33809.0,1690.0,2021-05-04,Champion,False,True,Sports,L
+CUST-0074,Ritu Khanna,Female,23,Lucknow,Uttar Pradesh,Tier1,Flipkart,2022-11-21,5,7742.0,1548.0,2024-09-03,Potential Loyalist,True,True,Harry Potter,L
+CUST-0075,Komal Hegde,Female,33,Mumbai,Maharashtra,Metro,Amazon,2022-11-09,18,32574.0,1810.0,2024-07-14,Champion,True,True,DC,M
+CUST-0076,Payal Kumar,Female,41,Delhi,Delhi,Metro,Offline (Studio Store),2023-07-12,1,1907.0,1907.0,2024-10-20,Recent,False,True,Basics,M
+CUST-0077,Ritu Hegde,Female,24,Bhopal,Madhya Pradesh,Tier2,Flipkart,2023-10-26,8,6245.0,781.0,2024-06-07,Loyal,False,False,Friends,XL
+CUST-0078,Yamini Reddy,Female,40,Pune,Maharashtra,Tier1,Amazon,2022-04-20,17,37370.0,2198.0,2022-08-25,Champion,False,False,Music,L
+CUST-0079,Komal Kapoor,Female,35,Delhi,Delhi,Metro,Flipkart,2021-10-04,6,11063.0,1844.0,2023-09-05,Loyal,True,True,Harry Potter,M
+CUST-0080,Kavita Gupta,Female,42,Mumbai,Maharashtra,Metro,Flipkart,2021-07-25,18,21650.0,1203.0,2023-03-26,Champion,True,False,Sports,S
+CUST-0081,Neha Shah,Female,36,Indore,Madhya Pradesh,Tier2,Offline (Studio Store),2023-02-21,30,60871.0,2029.0,2023-10-28,Champion,True,True,Movies & TV,XL
+CUST-0082,Preeti Bhatt,Female,29,Hyderabad,Telangana,Metro,D2C Website,2020-10-26,10,7359.0,736.0,2021-04-05,Loyal,True,True,Sports,XL
+CUST-0083,Sameer Hegde,Male,21,Hyderabad,Telangana,Metro,Offline (Studio Store),2023-01-08,9,17639.0,1960.0,2023-10-16,Loyal,True,True,Anime,XXL
+CUST-0084,Raj Saxena,Male,31,Lucknow,Uttar Pradesh,Tier1,D2C Website,2022-12-23,8,14762.0,1845.0,2023-07-16,Loyal,True,True,Friends,M
+CUST-0085,Akash Bhat,Male,33,Lucknow,Uttar Pradesh,Tier1,D2C Website,2020-11-19,14,32240.0,2303.0,2023-07-21,Champion,True,True,Harry Potter,S
+CUST-0086,Tanvi Soni,Female,35,Chennai,Tamil Nadu,Metro,Nykaa Fashion,2020-05-01,30,27700.0,923.0,2021-08-19,Champion,True,True,Marvel,L
+CUST-0087,Deepak Saxena,Male,33,Kolkata,West Bengal,Metro,D2C Website,2020-12-26,30,26683.0,889.0,2023-03-19,Champion,False,True,Harry Potter,L
+CUST-0088,Arjun Kumar,Male,27,Patna,Bihar,Tier2,D2C Website,2023-03-09,20,20743.0,1037.0,2024-11-30,Champion,True,True,Basics,L
+CUST-0089,Sunita Singh,Female,28,Bhopal,Madhya Pradesh,Tier2,Flipkart,2022-10-29,15,17131.0,1142.0,2023-06-16,Champion,False,True,Harry Potter,L
+CUST-0090,Arjun Chauhan,Male,23,Jaipur,Rajasthan,Tier1,Amazon,2021-11-21,26,34593.0,1330.0,2022-12-21,Champion,True,True,Movies & TV,M
+CUST-0091,Komal Joshi,Female,33,Kochi,Kerala,Tier1,Myntra,2020-06-26,13,23644.0,1819.0,2021-04-09,Champion,True,False,Harry Potter,XL
+CUST-0092,Meera Rao,Female,26,Chandigarh,Punjab,Tier1,Amazon,2021-06-30,11,14857.0,1351.0,2021-07-23,Loyal,True,True,Marvel,L
+CUST-0093,Saurabh Kumar,Male,40,Kochi,Kerala,Tier1,Flipkart,2020-11-23,13,27386.0,2107.0,2022-08-21,Champion,False,True,Harry Potter,L
+CUST-0094,Bhavna Gupta,Female,31,Kochi,Kerala,Tier1,Myntra,2021-03-24,5,7522.0,1504.0,2023-04-28,Potential Loyalist,True,True,Basics,M
+CUST-0095,Yash Gupta,Male,34,Hyderabad,Telangana,Metro,D2C Website,2023-10-25,25,53373.0,2135.0,2024-04-09,Champion,True,True,DC,L
+CUST-0096,Rohit Hegde,Male,22,Mumbai,Maharashtra,Metro,Amazon,2023-01-26,29,45819.0,1580.0,2024-11-30,Champion,False,True,Sports,L
+CUST-0097,Raj Reddy,Male,19,Bengaluru,Karnataka,Metro,Amazon,2023-04-09,16,15872.0,992.0,2024-11-30,Champion,True,True,Sports,XS
+CUST-0098,Akash Rao,Male,26,Mumbai,Maharashtra,Metro,Myntra,2023-10-09,26,36924.0,1420.0,2024-11-30,Champion,True,True,Original Art,M
+CUST-0099,Rohit Pandey,Male,20,Mumbai,Maharashtra,Metro,Amazon,2021-12-06,23,19326.0,840.0,2022-04-08,Champion,True,True,Harry Potter,L
+CUST-0100,Deepika Trivedi,Female,29,Delhi,Delhi,Metro,Flipkart,2020-10-04,25,57547.0,2302.0,2023-02-11,Champion,True,True,Movies & TV,S
+CUST-0101,Anjali Thomas,Female,21,Mumbai,Maharashtra,Metro,Amazon,2023-09-17,28,44950.0,1605.0,2024-11-30,Champion,False,True,Basics,L
+CUST-0102,Dev Gupta,Male,39,Ahmedabad,Gujarat,Tier1,Flipkart,2020-01-08,25,21327.0,853.0,2022-08-13,Champion,True,True,Movies & TV,XXL
+CUST-0103,Gaurav Rao,Male,19,Chennai,Tamil Nadu,Metro,D2C Website,2021-12-09,5,5729.0,1146.0,2022-07-28,Potential Loyalist,True,True,Marvel,XL
+CUST-0104,Sameer Verma,Male,25,Bengaluru,Karnataka,Metro,Amazon,2020-07-25,20,15113.0,756.0,2020-11-01,Champion,True,True,Anime,S
+CUST-0105,Yash Jain,Male,41,Mumbai,Maharashtra,Metro,Offline (Studio Store),2020-04-25,5,9936.0,1987.0,2021-08-17,Potential Loyalist,True,True,Music,XL
+CUST-0106,Kartik Saxena,Male,26,Jaipur,Rajasthan,Tier1,Amazon,2020-10-20,22,35621.0,1619.0,2022-06-27,Champion,False,True,Friends,S
+CUST-0107,Ananya Iyer,Female,28,Delhi,Delhi,Metro,D2C Website,2020-04-06,12,25448.0,2121.0,2023-03-16,Champion,True,True,Harry Potter,L
+CUST-0108,Deepika Trivedi,Female,40,Noida,Uttar Pradesh,Tier1,Flipkart,2023-01-06,16,21088.0,1318.0,2024-09-12,Champion,False,True,Marvel,M
+CUST-0109,Pallavi Mishra,Female,28,Nagpur,Maharashtra,Tier2,Flipkart,2022-12-21,5,6898.0,1380.0,2024-02-10,Potential Loyalist,True,True,Music,L
+CUST-0110,Akash Chauhan,Male,20,Kolkata,West Bengal,Metro,Amazon,2021-01-25,2,2406.0,1203.0,2021-04-15,Lost,False,True,Basics,M
+CUST-0111,Tarun Reddy,Male,41,Bengaluru,Karnataka,Metro,Flipkart,2021-11-12,10,6678.0,668.0,2022-12-06,Loyal,False,True,Sports,XS
+CUST-0112,Aman Khanna,Male,30,Mumbai,Maharashtra,Metro,D2C Website,2021-02-22,13,15712.0,1209.0,2022-09-24,Champion,True,True,Harry Potter,S
+CUST-0113,Aditi Pillai,Female,42,Lucknow,Uttar Pradesh,Tier1,Flipkart,2022-10-15,15,14743.0,983.0,2024-11-30,Champion,True,True,Music,M
+CUST-0114,Pallavi Mehta,Female,26,Mumbai,Maharashtra,Metro,Amazon,2023-02-26,28,34621.0,1236.0,2023-03-31,Champion,True,True,Movies & TV,M
+CUST-0115,Ritu Reddy,Female,33,Delhi,Delhi,Metro,Amazon,2021-11-06,8,12063.0,1508.0,2023-03-24,Loyal,True,True,Music,M
+CUST-0116,Preeti Hegde,Female,23,Kolkata,West Bengal,Metro,Flipkart,2022-09-27,24,51810.0,2159.0,2024-11-30,Champion,True,True,Friends,S
+CUST-0117,Deepika Bhat,Female,39,Hyderabad,Telangana,Metro,Flipkart,2023-01-15,21,17344.0,826.0,2023-06-16,Champion,False,False,Friends,L
+CUST-0118,Karan Wagh,Male,19,Lucknow,Uttar Pradesh,Tier1,Flipkart,2020-11-05,1,1149.0,1149.0,2022-12-09,Lost,True,True,Original Art,S
+CUST-0119,Swati Iyer,Female,18,Mumbai,Maharashtra,Metro,Flipkart,2020-02-02,1,1817.0,1817.0,2020-02-26,Lost,True,False,Harry Potter,XS
+CUST-0120,Parth Hegde,Male,34,Kolkata,West Bengal,Metro,Nykaa Fashion,2023-10-12,14,13177.0,941.0,2024-04-26,Champion,False,False,Basics,L
+CUST-0121,Nandita Shah,Female,32,Hyderabad,Telangana,Metro,Flipkart,2021-07-01,26,34347.0,1321.0,2023-10-10,Champion,True,True,Anime,M
+CUST-0122,Swati Hegde,Female,30,Chennai,Tamil Nadu,Metro,Nykaa Fashion,2020-06-14,21,45950.0,2188.0,2020-12-22,Champion,True,True,Marvel,M
+CUST-0123,Aman Nair,Male,36,Nagpur,Maharashtra,Tier2,Nykaa Fashion,2020-06-18,16,26513.0,1657.0,2022-04-27,Champion,True,True,Basics,M
+CUST-0124,Gaurav Reddy,Male,39,Mumbai,Maharashtra,Metro,D2C Website,2023-03-06,16,17348.0,1084.0,2023-08-05,Champion,True,True,Original Art,XS
+CUST-0125,Nikhil Bhat,Male,20,Mumbai,Maharashtra,Metro,Flipkart,2021-10-06,1,1153.0,1153.0,2023-12-30,Lost,True,True,Original Art,S
+CUST-0126,Swati Saxena,Female,40,Bengaluru,Karnataka,Metro,Myntra,2023-01-12,11,17599.0,1600.0,2023-10-25,Loyal,True,True,Music,XS
+CUST-0127,Vikram Pandey,Male,42,Kochi,Kerala,Tier1,D2C Website,2021-04-20,27,21981.0,814.0,2023-07-11,Champion,True,True,Sports,S
+CUST-0128,Meera Shah,Female,20,Jaipur,Rajasthan,Tier1,Flipkart,2023-02-06,13,18651.0,1435.0,2024-11-30,Champion,True,False,Anime,XL
+CUST-0129,Karan Agarwal,Male,41,Noida,Uttar Pradesh,Tier1,Myntra,2020-11-11,13,30429.0,2341.0,2021-09-22,Champion,True,True,DC,M
+CUST-0130,Kartik Rao,Male,23,Delhi,Delhi,Metro,Flipkart,2022-01-07,25,27565.0,1103.0,2022-07-04,Champion,True,True,Basics,XL
+CUST-0131,Pooja Sharma,Female,30,Patna,Bihar,Tier2,Amazon,2020-07-02,12,19332.0,1611.0,2022-04-27,Champion,False,True,DC,M
+CUST-0132,Vivaan Pillai,Male,27,Gurgaon,Haryana,Tier1,D2C Website,2020-12-13,22,29312.0,1332.0,2022-06-16,Champion,True,False,Friends,XXL
+CUST-0133,Shruti Pandey,Female,41,Lucknow,Uttar Pradesh,Tier1,Amazon,2021-09-05,16,13141.0,821.0,2023-01-23,Champion,True,True,Anime,L
+CUST-0134,Pooja Singh,Female,28,Gurgaon,Haryana,Tier1,D2C Website,2021-09-15,1,1434.0,1434.0,2023-11-02,Lost,True,True,Original Art,XL
+CUST-0135,Kartik Joshi,Male,30,Chennai,Tamil Nadu,Metro,Myntra,2023-05-20,23,25392.0,1104.0,2024-05-17,Champion,True,False,Sports,M
+CUST-0136,Rishabh Kapoor,Male,36,Bhopal,Madhya Pradesh,Tier2,Amazon,2021-07-28,27,38964.0,1443.0,2022-09-10,Champion,True,False,Basics,XS
+CUST-0137,Dev Rao,Male,31,Chandigarh,Punjab,Tier1,D2C Website,2021-03-05,15,21372.0,1425.0,2021-07-24,Champion,True,False,Harry Potter,M
+CUST-0138,Pranav Thomas,Male,32,Nagpur,Maharashtra,Tier2,Offline (Studio Store),2020-11-11,23,39142.0,1702.0,2021-04-11,Champion,True,True,Movies & TV,L
+CUST-0139,Ananya Mehta,Female,21,Ahmedabad,Gujarat,Tier1,Amazon,2022-01-06,23,42542.0,1850.0,2022-06-29,Champion,True,True,Music,M
+CUST-0140,Rahul Khanna,Male,42,Bengaluru,Karnataka,Metro,Flipkart,2020-03-31,19,40443.0,2129.0,2022-06-27,Champion,True,True,DC,L
+CUST-0141,Vikram Agarwal,Male,32,Kochi,Kerala,Tier1,Myntra,2021-03-30,17,30475.0,1793.0,2022-06-25,Champion,True,True,Original Art,S
+CUST-0142,Harsh Sharma,Male,21,Pune,Maharashtra,Tier1,D2C Website,2022-09-15,4,5088.0,1272.0,2023-03-09,Potential Loyalist,True,True,Music,L
+CUST-0143,Simran Rao,Female,32,Pune,Maharashtra,Tier1,Myntra,2021-02-27,17,27406.0,1612.0,2021-09-14,Champion,True,True,DC,M
+CUST-0144,Sneha Bhatt,Female,41,Mumbai,Maharashtra,Metro,D2C Website,2020-08-23,1,1464.0,1464.0,2021-07-25,Lost,False,False,Friends,L
+CUST-0145,Ananya Pandey,Female,38,Kolkata,West Bengal,Metro,D2C Website,2022-08-04,8,12708.0,1588.0,2023-08-20,Loyal,True,True,Original Art,S
+CUST-0146,Saurabh Bansal,Male,26,Jaipur,Rajasthan,Tier1,D2C Website,2022-05-29,13,9783.0,753.0,2023-07-24,Champion,True,True,DC,XL
+CUST-0147,Ishan Jain,Male,21,Jaipur,Rajasthan,Tier1,D2C Website,2023-01-04,6,8240.0,1373.0,2024-11-30,Loyal,True,True,Basics,S
+CUST-0148,Bhavna Kapoor,Female,32,Patna,Bihar,Tier2,Amazon,2023-06-05,13,21864.0,1682.0,2024-11-30,Champion,True,True,Harry Potter,M
+CUST-0149,Raj Singh,Male,29,Kochi,Kerala,Tier1,Nykaa Fashion,2021-10-03,4,4475.0,1119.0,2022-10-12,Potential Loyalist,True,True,Movies & TV,XXL
+CUST-0150,Vivaan Kapoor,Male,35,Gurgaon,Haryana,Tier1,Amazon,2022-05-16,6,10590.0,1765.0,2023-05-05,Loyal,False,False,Friends,S
+CUST-0151,Nandita Rao,Female,22,Gurgaon,Haryana,Tier1,Amazon,2023-06-22,2,3259.0,1630.0,2024-11-30,Recent,False,True,Basics,M
+CUST-0152,Pallavi Thomas,Female,23,Chandigarh,Punjab,Tier1,D2C Website,2022-10-04,14,33231.0,2374.0,2024-11-30,Champion,False,False,Anime,L
+CUST-0153,Sneha Agarwal,Female,36,Mumbai,Maharashtra,Metro,Amazon,2021-04-05,18,20925.0,1162.0,2023-10-28,Champion,True,True,Basics,S
+CUST-0154,Vivaan Patel,Male,35,Mumbai,Maharashtra,Metro,D2C Website,2021-07-02,25,49693.0,1988.0,2023-07-23,Champion,True,False,Sports,L
+CUST-0155,Deepak Patel,Male,32,Noida,Uttar Pradesh,Tier1,Amazon,2023-08-31,25,28320.0,1133.0,2023-11-05,Champion,True,True,DC,XXL
+CUST-0156,Madhuri Patel,Female,23,Hyderabad,Telangana,Metro,D2C Website,2021-04-30,7,14084.0,2012.0,2023-09-23,Loyal,True,True,Anime,XL
+CUST-0157,Vivaan Shah,Male,40,Delhi,Delhi,Metro,Offline (Studio Store),2022-12-26,9,17499.0,1944.0,2024-10-18,Loyal,True,True,Basics,XS
+CUST-0158,Aditya Trivedi,Male,40,Visakhapatnam,Andhra Pradesh,Tier2,D2C Website,2022-04-22,30,28269.0,942.0,2023-01-06,Champion,True,False,Music,XL
+CUST-0159,Yash Hegde,Male,38,Chennai,Tamil Nadu,Metro,Offline (Studio Store),2023-10-16,13,19751.0,1519.0,2024-11-30,Champion,True,True,DC,S
+CUST-0160,Komal Chauhan,Female,28,Chennai,Tamil Nadu,Metro,Offline (Studio Store),2021-07-23,23,33010.0,1435.0,2024-04-17,Champion,True,True,DC,L
+CUST-0161,Ishita Thomas,Female,24,Ahmedabad,Gujarat,Tier1,Flipkart,2022-01-03,28,25271.0,903.0,2024-03-27,Champion,True,True,Sports,M
+CUST-0162,Simran Hegde,Female,28,Ahmedabad,Gujarat,Tier1,Amazon,2021-08-03,11,20488.0,1863.0,2024-04-22,Loyal,True,True,Marvel,XL
+CUST-0163,Rahul Bhatt,Male,32,Mumbai,Maharashtra,Metro,D2C Website,2022-07-30,1,1077.0,1077.0,2023-06-18,Lost,True,True,Movies & TV,XXL
+CUST-0164,Aman Bhat,Male,20,Bhopal,Madhya Pradesh,Tier2,Amazon,2020-09-27,29,55398.0,1910.0,2022-04-11,Champion,True,False,Music,L
+CUST-0165,Rohit Kapoor,Male,31,Bengaluru,Karnataka,Metro,D2C Website,2023-07-05,10,23168.0,2317.0,2024-10-26,Loyal,True,True,Marvel,M
+CUST-0166,Tarun Verma,Male,18,Bengaluru,Karnataka,Metro,Amazon,2020-09-28,19,22226.0,1170.0,2023-03-28,Champion,False,False,DC,S
+CUST-0167,Yamini Singh,Female,21,Visakhapatnam,Andhra Pradesh,Tier2,Offline (Studio Store),2022-09-05,3,3381.0,1127.0,2023-04-02,Potential Loyalist,True,True,Friends,L
+CUST-0168,Preeti Hegde,Female,36,Chennai,Tamil Nadu,Metro,D2C Website,2020-09-29,21,39112.0,1862.0,2023-09-20,Champion,False,True,Sports,XL
+CUST-0169,Richa Reddy,Female,24,Jaipur,Rajasthan,Tier1,D2C Website,2023-07-10,24,27293.0,1137.0,2024-11-30,Champion,False,False,DC,XL
+CUST-0170,Aditi Pandey,Female,25,Surat,Gujarat,Tier1,Nykaa Fashion,2021-10-06,26,23696.0,911.0,2022-03-27,Champion,True,True,Original Art,L
+CUST-0171,Preeti Wagh,Female,34,Kolkata,West Bengal,Metro,Amazon,2020-02-24,28,63809.0,2279.0,2021-04-19,Champion,True,False,Movies & TV,XXL
+CUST-0172,Ishita Mehta,Female,38,Lucknow,Uttar Pradesh,Tier1,D2C Website,2021-05-05,16,21070.0,1317.0,2024-02-22,Champion,True,True,Marvel,XS
+CUST-0173,Roshni Joshi,Female,42,Hyderabad,Telangana,Metro,Myntra,2020-09-27,13,23657.0,1820.0,2021-09-15,Champion,True,True,DC,XXL
+CUST-0174,Vivaan Verma,Male,30,Delhi,Delhi,Metro,Amazon,2020-01-29,9,8851.0,983.0,2020-05-31,Loyal,True,True,Basics,M
+CUST-0175,Pallavi Wagh,Female,26,Visakhapatnam,Andhra Pradesh,Tier2,Myntra,2022-04-03,3,6099.0,2033.0,2023-02-09,Potential Loyalist,False,False,Anime,XL
+CUST-0176,Akash Joshi,Male,27,Pune,Maharashtra,Tier1,Amazon,2022-03-11,19,40980.0,2157.0,2022-07-24,Champion,True,True,Anime,M
+CUST-0177,Gaurav Verma,Male,27,Mumbai,Maharashtra,Metro,Myntra,2022-06-08,4,6731.0,1683.0,2022-09-28,Potential Loyalist,True,True,Friends,XL
+CUST-0178,Arjun Wagh,Male,34,Patna,Bihar,Tier2,Offline (Studio Store),2020-10-08,23,14952.0,650.0,2022-09-18,Champion,True,True,Harry Potter,L
+CUST-0179,Harsh Singh,Male,28,Gurgaon,Haryana,Tier1,Nykaa Fashion,2021-07-04,24,24423.0,1018.0,2021-09-02,Champion,True,False,DC,XL
+CUST-0180,Yamini Bansal,Female,19,Delhi,Delhi,Metro,Amazon,2023-07-09,3,5079.0,1693.0,2024-11-30,Potential Loyalist,True,True,Music,S
+CUST-0181,Pranav Trivedi,Male,25,Nagpur,Maharashtra,Tier2,Flipkart,2020-07-29,29,57215.0,1973.0,2021-03-22,Champion,True,False,Marvel,M
+CUST-0182,Rohit Iyer,Male,35,Jaipur,Rajasthan,Tier1,Flipkart,2022-01-15,13,11830.0,910.0,2022-03-28,Champion,True,True,Movies & TV,M
+CUST-0183,Rishabh Gupta,Male,36,Mumbai,Maharashtra,Metro,Flipkart,2022-05-02,30,61725.0,2058.0,2022-10-08,Champion,True,True,Marvel,L
+CUST-0184,Gaurav Bhatt,Male,27,Gurgaon,Haryana,Tier1,Amazon,2022-11-22,2,2649.0,1324.0,2024-11-30,Recent,True,False,DC,XL
+CUST-0185,Priya Shah,Female,32,Chennai,Tamil Nadu,Metro,Amazon,2021-02-14,10,20122.0,2012.0,2022-06-25,Loyal,True,True,Anime,XL
+CUST-0186,Aditya Sharma,Male,28,Hyderabad,Telangana,Metro,D2C Website,2022-04-19,1,1192.0,1192.0,2022-05-08,Lost,False,True,Harry Potter,XS
+CUST-0187,Sameer Pillai,Male,40,Gurgaon,Haryana,Tier1,Flipkart,2021-05-02,14,27204.0,1943.0,2022-02-17,Champion,True,False,Anime,L
+CUST-0188,Yamini Saxena,Female,22,Delhi,Delhi,Metro,D2C Website,2022-02-01,15,13412.0,894.0,2024-11-30,Champion,True,True,Original Art,XS
+CUST-0189,Deepak Thomas,Male,30,Bengaluru,Karnataka,Metro,Amazon,2020-09-24,8,9632.0,1204.0,2022-07-01,Loyal,True,True,Music,M
+CUST-0190,Shruti Gupta,Female,22,Hyderabad,Telangana,Metro,Nykaa Fashion,2020-06-01,7,7421.0,1060.0,2021-01-10,Loyal,False,True,Music,M
+CUST-0191,Pooja Mishra,Female,26,Chennai,Tamil Nadu,Metro,Myntra,2022-01-03,25,27719.0,1109.0,2024-08-08,Champion,True,False,Harry Potter,M
+CUST-0192,Sameer Hegde,Male,30,Ahmedabad,Gujarat,Tier1,Myntra,2021-11-02,5,4711.0,942.0,2023-10-31,Potential Loyalist,True,True,Harry Potter,XXL
+CUST-0193,Arjun Kapoor,Male,21,Delhi,Delhi,Metro,Nykaa Fashion,2022-07-15,18,30401.0,1689.0,2024-11-30,Champion,True,False,Marvel,L
+CUST-0194,Neel Trivedi,Male,39,Bengaluru,Karnataka,Metro,Amazon,2021-03-31,5,6061.0,1212.0,2023-05-02,Potential Loyalist,True,True,Original Art,XXL
+CUST-0195,Roshni Hegde,Female,22,Pune,Maharashtra,Tier1,D2C Website,2020-06-02,1,757.0,757.0,2022-11-27,Lost,False,True,Music,L
+CUST-0196,Rohit Rao,Male,33,Delhi,Delhi,Metro,D2C Website,2020-04-13,6,11024.0,1837.0,2022-06-30,Loyal,False,True,Friends,S
+CUST-0197,Kavita Bhat,Female,19,Mumbai,Maharashtra,Metro,D2C Website,2021-01-18,9,11271.0,1252.0,2021-11-18,Loyal,True,True,Harry Potter,S
+CUST-0198,Pallavi Saxena,Female,22,Ahmedabad,Gujarat,Tier1,D2C Website,2023-02-01,16,11553.0,722.0,2024-11-30,Champion,True,True,Basics,M
+CUST-0199,Rahul Bhatt,Male,33,Bhopal,Madhya Pradesh,Tier2,Amazon,2023-01-18,26,22035.0,848.0,2024-11-30,Champion,True,True,Original Art,L
+CUST-0200,Sakshi Agarwal,Female,42,Delhi,Delhi,Metro,D2C Website,2021-01-03,1,1392.0,1392.0,2021-03-04,Lost,True,True,Sports,S
+CUST-0201,Preeti Bansal,Female,26,Delhi,Delhi,Metro,D2C Website,2021-04-21,6,5019.0,836.0,2022-08-27,Loyal,True,True,Marvel,S
+CUST-0202,Vivaan Jain,Male,41,Mumbai,Maharashtra,Metro,D2C Website,2022-03-06,12,11430.0,952.0,2023-12-17,Champion,True,True,Marvel,M
+CUST-0203,Payal Bansal,Female,35,Delhi,Delhi,Metro,Amazon,2020-10-18,19,22697.0,1195.0,2023-07-23,Champion,True,True,DC,L
+CUST-0204,Gaurav Khanna,Male,37,Jaipur,Rajasthan,Tier1,D2C Website,2021-03-24,1,1766.0,1766.0,2023-02-01,Lost,False,False,Friends,XL
+CUST-0205,Sneha Sharma,Female,34,Ahmedabad,Gujarat,Tier1,D2C Website,2020-10-29,19,45813.0,2411.0,2021-06-13,Champion,True,True,Music,XL
+CUST-0206,Payal Patel,Female,41,Chandigarh,Punjab,Tier1,D2C Website,2021-11-20,10,12117.0,1212.0,2022-10-08,Loyal,True,True,Sports,M
+CUST-0207,Deepika Wagh,Female,39,Kochi,Kerala,Tier1,Flipkart,2023-02-24,23,48861.0,2124.0,2024-05-26,Champion,True,False,Harry Potter,S
+CUST-0208,Ritu Nair,Female,23,Delhi,Delhi,Metro,Amazon,2020-01-04,23,41678.0,1812.0,2020-03-10,Champion,True,True,Original Art,M
+CUST-0209,Rahul Bansal,Male,25,Kolkata,West Bengal,Metro,Amazon,2020-08-01,30,45930.0,1531.0,2021-01-07,Champion,True,False,DC,M
+CUST-0210,Divya Sharma,Female,26,Noida,Uttar Pradesh,Tier1,D2C Website,2021-06-27,7,8968.0,1281.0,2023-06-14,Loyal,True,True,Marvel,M
+CUST-0211,Divya Chauhan,Female,29,Jaipur,Rajasthan,Tier1,Myntra,2022-05-09,6,9263.0,1544.0,2024-06-22,Loyal,True,False,Sports,L
+CUST-0212,Nikhil Rao,Male,26,Chennai,Tamil Nadu,Metro,D2C Website,2020-05-30,26,18739.0,721.0,2022-03-13,Champion,True,False,Friends,M
+CUST-0213,Deepika Chauhan,Female,40,Chennai,Tamil Nadu,Metro,D2C Website,2020-06-02,18,15241.0,847.0,2023-02-15,Champion,False,True,Friends,M
+CUST-0214,Deepika Mehta,Female,40,Hyderabad,Telangana,Metro,D2C Website,2020-07-26,11,14073.0,1279.0,2022-11-11,Loyal,True,True,Basics,M
+CUST-0215,Swati Kumar,Female,22,Delhi,Delhi,Metro,D2C Website,2021-09-01,8,6200.0,775.0,2024-06-02,Loyal,False,False,DC,S
+CUST-0216,Nandita Thomas,Female,24,Bhopal,Madhya Pradesh,Tier2,Amazon,2023-07-04,20,30627.0,1531.0,2023-08-25,Champion,False,False,DC,L
+CUST-0217,Madhuri Patel,Female,20,Gurgaon,Haryana,Tier1,Amazon,2021-09-23,26,39021.0,1501.0,2023-03-19,Champion,True,True,Music,S
+CUST-0218,Aditi Nair,Female,25,Chennai,Tamil Nadu,Metro,Amazon,2022-07-01,2,2433.0,1216.0,2023-12-22,Lost,True,True,Friends,L
+CUST-0219,Karan Thomas,Male,35,Hyderabad,Telangana,Metro,D2C Website,2021-12-05,26,45795.0,1761.0,2023-03-15,Champion,False,True,Basics,M
+CUST-0220,Ananya Thomas,Female,30,Hyderabad,Telangana,Metro,Flipkart,2022-08-30,19,22298.0,1174.0,2023-02-07,Champion,True,True,Basics,L
+CUST-0221,Vikram Trivedi,Male,22,Bengaluru,Karnataka,Metro,Offline (Studio Store),2022-07-08,6,7138.0,1190.0,2023-08-06,Loyal,False,False,Movies & TV,L
+CUST-0222,Neel Soni,Male,20,Delhi,Delhi,Metro,D2C Website,2020-10-29,27,48025.0,1779.0,2021-03-15,Champion,True,True,Music,S
+CUST-0223,Komal Rao,Female,31,Delhi,Delhi,Metro,D2C Website,2020-01-26,26,57532.0,2213.0,2022-12-31,Champion,False,False,Original Art,S
+CUST-0224,Aarav Patel,Male,29,Bengaluru,Karnataka,Metro,D2C Website,2023-02-26,25,24592.0,984.0,2024-11-30,Champion,True,False,Sports,XL
+CUST-0225,Sneha Nair,Female,19,Mumbai,Maharashtra,Metro,Amazon,2021-07-18,13,13380.0,1029.0,2023-10-18,Champion,True,True,Anime,M
+CUST-0226,Dev Iyer,Male,27,Patna,Bihar,Tier2,D2C Website,2021-07-04,29,36296.0,1252.0,2023-03-16,Champion,True,True,DC,M
+CUST-0227,Aditya Kumar,Male,37,Visakhapatnam,Andhra Pradesh,Tier2,Myntra,2022-06-26,25,31578.0,1263.0,2024-10-26,Champion,True,False,Anime,XL
+CUST-0228,Richa Iyer,Female,23,Bengaluru,Karnataka,Metro,D2C Website,2022-11-23,28,44970.0,1606.0,2024-11-30,Champion,False,True,Movies & TV,L
+CUST-0229,Yash Jain,Male,24,Indore,Madhya Pradesh,Tier2,Amazon,2022-12-09,29,46417.0,1601.0,2024-01-07,Champion,True,False,Sports,L
+CUST-0230,Aarav Shah,Male,30,Bengaluru,Karnataka,Metro,Flipkart,2021-02-11,9,14356.0,1595.0,2023-12-12,Loyal,True,False,Marvel,S
+CUST-0231,Harsh Iyer,Male,36,Bengaluru,Karnataka,Metro,Amazon,2023-05-01,15,18148.0,1210.0,2024-11-30,Champion,True,False,Harry Potter,L
+CUST-0232,Kartik Sharma,Male,25,Delhi,Delhi,Metro,D2C Website,2022-03-02,2,2285.0,1142.0,2023-05-14,Lost,True,True,Harry Potter,L
+CUST-0233,Komal Sharma,Female,37,Bengaluru,Karnataka,Metro,Amazon,2023-10-29,1,1876.0,1876.0,2024-10-17,Recent,True,False,Original Art,S
+CUST-0234,Yamini Wagh,Female,32,Pune,Maharashtra,Tier1,Amazon,2023-08-09,9,15776.0,1753.0,2024-11-30,Loyal,True,True,Basics,S
+CUST-0235,Payal Patel,Female,35,Bengaluru,Karnataka,Metro,D2C Website,2020-01-16,17,39843.0,2344.0,2022-02-20,Champion,True,True,Harry Potter,S
+CUST-0236,Tarun Verma,Male,26,Patna,Bihar,Tier2,D2C Website,2021-11-19,9,17150.0,1906.0,2023-06-09,Loyal,True,True,Harry Potter,XL
+CUST-0237,Aditya Pillai,Male,39,Delhi,Delhi,Metro,Flipkart,2021-05-07,29,25832.0,891.0,2023-08-12,Champion,True,False,Marvel,L
+CUST-0238,Tanvi Agarwal,Female,28,Kolkata,West Bengal,Metro,Amazon,2022-05-07,13,20815.0,1601.0,2023-05-30,Champion,True,False,Basics,M
+CUST-0239,Roshni Thomas,Female,27,Bengaluru,Karnataka,Metro,Nykaa Fashion,2022-01-04,17,24653.0,1450.0,2023-01-09,Champion,False,False,Harry Potter,XL
+CUST-0240,Raj Saxena,Male,41,Visakhapatnam,Andhra Pradesh,Tier2,D2C Website,2021-11-18,21,16979.0,809.0,2023-02-18,Champion,True,True,Music,L
+CUST-0241,Shruti Bansal,Female,33,Indore,Madhya Pradesh,Tier2,D2C Website,2021-08-25,15,13990.0,933.0,2022-01-17,Champion,True,True,Movies & TV,S
+CUST-0242,Pallavi Mehta,Female,22,Noida,Uttar Pradesh,Tier1,Amazon,2020-11-04,5,5288.0,1058.0,2023-05-30,Potential Loyalist,True,True,DC,XL
+CUST-0243,Simran Soni,Female,26,Delhi,Delhi,Metro,Myntra,2020-12-28,11,19073.0,1734.0,2023-07-11,Loyal,False,True,Original Art,M
+CUST-0244,Tarun Bhatt,Male,30,Delhi,Delhi,Metro,D2C Website,2020-06-29,5,9595.0,1919.0,2022-11-25,Potential Loyalist,True,True,Marvel,XL
+CUST-0245,Akash Reddy,Male,24,Ahmedabad,Gujarat,Tier1,Amazon,2022-02-03,1,1464.0,1464.0,2024-11-30,Recent,False,False,Anime,M
+CUST-0246,Aman Saxena,Male,36,Bhopal,Madhya Pradesh,Tier2,Amazon,2021-12-06,10,8491.0,849.0,2024-10-01,Loyal,True,False,Marvel,XL
+CUST-0247,Tanvi Rao,Female,28,Pune,Maharashtra,Tier1,Amazon,2022-12-01,20,33735.0,1687.0,2023-09-01,Champion,True,True,Anime,M
+CUST-0248,Aarav Bhat,Male,24,Bengaluru,Karnataka,Metro,Flipkart,2022-04-06,1,1070.0,1070.0,2022-12-30,Lost,True,True,Friends,L
+CUST-0249,Harsh Wagh,Male,42,Delhi,Delhi,Metro,Myntra,2023-08-25,26,19421.0,747.0,2024-11-30,Champion,True,False,Marvel,M
+CUST-0250,Rahul Hegde,Male,30,Chennai,Tamil Nadu,Metro,Nykaa Fashion,2020-02-10,2,3737.0,1868.0,2022-08-07,Lost,False,False,Friends,L
+CUST-0251,Aman Thomas,Male,39,Mumbai,Maharashtra,Metro,Nykaa Fashion,2023-07-14,1,1285.0,1285.0,2024-02-05,At Risk,True,True,Friends,L
+CUST-0252,Nandita Saxena,Female,21,Bengaluru,Karnataka,Metro,D2C Website,2020-08-02,17,38228.0,2249.0,2022-03-03,Champion,True,True,Original Art,XL
+CUST-0253,Yash Agarwal,Male,23,Ahmedabad,Gujarat,Tier1,Amazon,2022-12-07,7,10643.0,1520.0,2024-08-02,Loyal,False,True,Anime,XL
+CUST-0254,Simran Gupta,Female,36,Gurgaon,Haryana,Tier1,D2C Website,2020-01-06,1,1819.0,1819.0,2020-08-19,Lost,True,False,DC,M
+CUST-0255,Dev Chauhan,Male,27,Delhi,Delhi,Metro,Flipkart,2020-07-26,29,37033.0,1277.0,2023-02-16,Champion,True,False,Friends,XS
+CUST-0256,Rohan Kumar,Male,21,Kolkata,West Bengal,Metro,Flipkart,2022-01-07,26,51189.0,1969.0,2022-09-01,Champion,True,True,Marvel,XL
+CUST-0257,Raj Soni,Male,41,Bengaluru,Karnataka,Metro,Myntra,2020-12-15,11,17616.0,1601.0,2022-06-17,Loyal,False,True,Friends,S
+CUST-0258,Mohit Kapoor,Male,31,Surat,Gujarat,Tier1,D2C Website,2022-07-23,9,14164.0,1574.0,2024-11-30,Loyal,True,True,DC,M
+CUST-0259,Aman Chauhan,Male,36,Kochi,Kerala,Tier1,D2C Website,2020-04-30,28,25313.0,904.0,2023-01-13,Champion,True,False,Movies & TV,M
+CUST-0260,Bhavna Sharma,Female,32,Noida,Uttar Pradesh,Tier1,Flipkart,2020-09-24,16,24027.0,1502.0,2023-01-14,Champion,False,False,Music,L
+CUST-0261,Aman Jain,Male,39,Jaipur,Rajasthan,Tier1,Amazon,2023-10-20,17,34106.0,2006.0,2024-11-30,Champion,True,True,Original Art,M
+CUST-0262,Deepak Thomas,Male,22,Bengaluru,Karnataka,Metro,D2C Website,2021-05-24,16,23634.0,1477.0,2023-07-21,Champion,True,True,Original Art,XL
+CUST-0263,Arjun Soni,Male,20,Kolkata,West Bengal,Metro,Amazon,2020-11-17,17,31218.0,1836.0,2021-10-21,Champion,True,False,Music,M
+CUST-0264,Sneha Pillai,Female,20,Nagpur,Maharashtra,Tier2,D2C Website,2021-04-01,18,34984.0,1944.0,2022-07-26,Champion,True,True,Sports,L
+CUST-0265,Rohan Iyer,Male,21,Chennai,Tamil Nadu,Metro,Flipkart,2022-07-04,11,11869.0,1079.0,2022-08-09,Loyal,True,False,Basics,XS
+CUST-0266,Neel Verma,Male,35,Lucknow,Uttar Pradesh,Tier1,Nykaa Fashion,2023-05-22,20,37749.0,1887.0,2024-11-30,Champion,False,True,Music,L
+CUST-0267,Nandita Mehta,Female,40,Jaipur,Rajasthan,Tier1,Nykaa Fashion,2021-04-01,28,43339.0,1548.0,2023-11-25,Champion,True,True,DC,L
+CUST-0268,Yash Thomas,Male,35,Delhi,Delhi,Metro,Amazon,2021-03-30,1,1338.0,1338.0,2022-11-17,Lost,True,True,Marvel,L
+CUST-0269,Tarun Singh,Male,21,Hyderabad,Telangana,Metro,Flipkart,2022-04-18,4,5042.0,1260.0,2023-05-07,Potential Loyalist,True,True,Sports,XXL
+CUST-0270,Aman Joshi,Male,42,Indore,Madhya Pradesh,Tier2,Amazon,2020-08-08,25,33435.0,1337.0,2021-04-17,Champion,True,True,Original Art,S
+CUST-0271,Tarun Sharma,Male,36,Patna,Bihar,Tier2,Myntra,2022-12-22,24,19482.0,812.0,2024-11-30,Champion,True,True,Friends,S
+CUST-0272,Dev Hegde,Male,34,Chandigarh,Punjab,Tier1,Myntra,2020-09-19,4,6254.0,1564.0,2022-07-10,Potential Loyalist,True,True,Original Art,L
+CUST-0273,Pranav Kapoor,Male,31,Kolkata,West Bengal,Metro,Amazon,2021-12-03,10,17758.0,1776.0,2022-09-11,Loyal,True,True,Basics,S
+CUST-0274,Nandita Wagh,Female,24,Bengaluru,Karnataka,Metro,Myntra,2023-01-26,28,39964.0,1427.0,2024-04-15,Champion,False,True,Music,XS
+CUST-0275,Aman Soni,Male,40,Bengaluru,Karnataka,Metro,Amazon,2020-12-30,17,32582.0,1917.0,2022-10-21,Champion,False,True,Sports,L
+CUST-0276,Swati Chauhan,Female,21,Chandigarh,Punjab,Tier1,D2C Website,2022-12-29,10,17097.0,1710.0,2024-11-30,Loyal,False,False,Marvel,M
+CUST-0277,Pranav Trivedi,Male,40,Noida,Uttar Pradesh,Tier1,Amazon,2020-11-25,10,19419.0,1942.0,2021-04-01,Loyal,True,False,Basics,M
+CUST-0278,Harsh Hegde,Male,41,Pune,Maharashtra,Tier1,D2C Website,2022-07-15,4,8710.0,2178.0,2023-10-17,Potential Loyalist,True,True,Basics,S
+CUST-0279,Yamini Thomas,Female,35,Pune,Maharashtra,Tier1,Amazon,2020-04-06,30,42931.0,1431.0,2022-01-06,Champion,False,True,Anime,XL
+CUST-0280,Nandita Gupta,Female,42,Hyderabad,Telangana,Metro,Amazon,2023-07-21,23,51712.0,2248.0,2024-08-26,Champion,True,False,Sports,L
+CUST-0281,Raj Verma,Male,31,Mumbai,Maharashtra,Metro,Flipkart,2021-01-17,6,9312.0,1552.0,2021-04-10,Loyal,True,False,Friends,S
+CUST-0282,Priya Joshi,Female,37,Nagpur,Maharashtra,Tier2,D2C Website,2022-08-13,23,20163.0,877.0,2024-06-03,Champion,False,True,Original Art,M
+CUST-0283,Neha Bhatt,Female,34,Mumbai,Maharashtra,Metro,Offline (Studio Store),2023-03-18,18,22489.0,1249.0,2024-11-30,Champion,False,False,DC,L
+CUST-0284,Deepak Mishra,Male,39,Kolkata,West Bengal,Metro,D2C Website,2023-01-04,13,11022.0,848.0,2024-03-15,Champion,True,True,Anime,L
+CUST-0285,Ananya Hegde,Female,25,Delhi,Delhi,Metro,Myntra,2023-08-22,1,981.0,981.0,2024-11-30,Recent,True,True,Original Art,M
+CUST-0286,Rohit Thomas,Male,18,Delhi,Delhi,Metro,D2C Website,2021-10-19,13,11701.0,900.0,2023-05-21,Champion,True,True,Music,M
+CUST-0287,Neha Mehta,Female,20,Kolkata,West Bengal,Metro,D2C Website,2021-08-30,29,53545.0,1846.0,2024-07-17,Champion,True,False,Basics,XL
+CUST-0288,Rahul Verma,Male,21,Pune,Maharashtra,Tier1,Amazon,2021-03-07,22,47349.0,2152.0,2023-07-23,Champion,False,True,Movies & TV,M
+CUST-0289,Dev Thomas,Male,20,Hyderabad,Telangana,Metro,Amazon,2020-11-10,1,1747.0,1747.0,2021-01-26,Lost,False,False,Harry Potter,S
+CUST-0290,Vivaan Hegde,Male,38,Delhi,Delhi,Metro,Myntra,2021-04-11,30,35848.0,1195.0,2023-10-21,Champion,True,False,Movies & TV,XXL
+CUST-0291,Akash Sharma,Male,40,Hyderabad,Telangana,Metro,D2C Website,2023-08-06,24,41002.0,1708.0,2023-11-07,Champion,True,True,Basics,L
+CUST-0292,Kartik Bhatt,Male,30,Hyderabad,Telangana,Metro,D2C Website,2021-09-09,20,16390.0,820.0,2024-02-22,Champion,True,True,Sports,S
+CUST-0293,Akash Gupta,Male,38,Noida,Uttar Pradesh,Tier1,Flipkart,2020-10-06,24,39205.0,1634.0,2022-06-02,Champion,False,True,Music,XS
+CUST-0294,Akash Jain,Male,35,Delhi,Delhi,Metro,D2C Website,2023-02-10,5,4106.0,821.0,2024-11-30,Potential Loyalist,True,False,Anime,L
+CUST-0295,Kavita Pandey,Female,25,Mumbai,Maharashtra,Metro,D2C Website,2023-08-15,28,43719.0,1561.0,2024-08-25,Champion,True,False,DC,XL
+CUST-0296,Raj Bhatt,Male,38,Delhi,Delhi,Metro,Flipkart,2023-03-07,28,25102.0,896.0,2024-11-30,Champion,True,False,DC,M
+CUST-0297,Pooja Reddy,Female,21,Mumbai,Maharashtra,Metro,D2C Website,2023-04-04,16,21088.0,1318.0,2024-07-27,Champion,True,False,Anime,L
+CUST-0298,Neha Rao,Female,36,Lucknow,Uttar Pradesh,Tier1,Myntra,2021-11-03,20,38610.0,1930.0,2022-09-11,Champion,True,True,Movies & TV,M
+CUST-0299,Arjun Joshi,Male,26,Jaipur,Rajasthan,Tier1,D2C Website,2021-05-19,26,31886.0,1226.0,2023-10-29,Champion,True,False,Music,M
+CUST-0300,Divya Rao,Female,23,Bhopal,Madhya Pradesh,Tier2,D2C Website,2022-01-04,25,32996.0,1320.0,2022-08-14,Champion,True,False,Harry Potter,S

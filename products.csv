@@ -1,0 +1,151 @@
+product_id,product_name,category,product_type,gender,mrp,cost_price,gross_margin_pct,launch_date,is_licensed,is_active,initial_stock_units,fabric,fit,hsn_code
+TSS-0001,Spider-Man Web Oversized T-Shirt,Marvel,Oversized T-Shirt,Men,999,345.0,65.5,2022-09-06,True,True,187,Cotton Blend,Regular Fit,61091000
+TSS-0002,Spider-Man Web Oversized T-Shirt,Marvel,Oversized T-Shirt,Women,899,348.0,61.3,2022-06-28,True,True,335,100% Cotton,Oversized,61091000
+TSS-0003,Spider-Man Web Classic T-Shirt,Marvel,Classic T-Shirt,Men,699,245.0,64.9,2022-09-20,True,True,251,French Terry,Relaxed Fit,61091000
+TSS-0004,Spider-Man Web Classic T-Shirt,Marvel,Classic T-Shirt,Women,699,248.0,64.5,2021-07-03,True,True,233,100% Cotton,Regular Fit,61091000
+TSS-0005,Spider-Man Web Hoodie,Marvel,Hoodie,Men,1699,574.0,66.2,2021-02-13,True,True,63,French Terry,Relaxed Fit,61091000
+TSS-0006,Spider-Man Web Hoodie,Marvel,Hoodie,Women,1599,670.0,58.1,2022-07-02,True,True,325,Cotton Blend,Oversized,61091000
+TSS-0007,Spider-Man Web Sweatshirt,Marvel,Sweatshirt,Men,999,343.0,65.7,2021-08-10,True,True,142,French Terry,Relaxed Fit,61091000
+TSS-0008,Spider-Man Web Sweatshirt,Marvel,Sweatshirt,Women,1099,335.0,69.5,2021-01-24,True,True,274,100% Cotton,Oversized,61091000
+TSS-0009,Spider-Man Web Joggers,Marvel,Joggers,Men,899,285.0,68.3,2022-09-25,True,False,228,Cotton Blend,Oversized,61091000
+TSS-0010,Spider-Man Web Joggers,Marvel,Joggers,Women,999,408.0,59.2,2023-09-25,True,False,168,French Terry,Slim Fit,61091000
+TSS-0011,Spider-Man Web Shorts,Marvel,Shorts,Men,899,359.0,60.1,2021-05-10,True,True,303,100% Cotton,Relaxed Fit,61091000
+TSS-0012,Spider-Man Web Shorts,Marvel,Shorts,Women,699,261.0,62.7,2022-02-23,True,True,120,Cotton Blend,Slim Fit,61091000
+TSS-0013,Iron Man Arc Reactor Oversized T-Shirt,Marvel,Oversized T-Shirt,Men,799,335.0,58.1,2022-02-24,True,True,166,Polyester Blend,Oversized,61091000
+TSS-0014,Iron Man Arc Reactor Oversized T-Shirt,Marvel,Oversized T-Shirt,Women,799,321.0,59.8,2021-05-01,True,True,245,Cotton Blend,Regular Fit,61091000
+TSS-0015,Iron Man Arc Reactor Classic T-Shirt,Marvel,Classic T-Shirt,Men,799,241.0,69.8,2023-05-03,True,False,170,French Terry,Oversized,61091000
+TSS-0016,Batman Dark Knight Oversized T-Shirt,DC,Oversized T-Shirt,Men,899,358.0,60.2,2022-02-13,True,True,249,100% Cotton,Relaxed Fit,61091000
+TSS-0017,Batman Dark Knight Oversized T-Shirt,DC,Oversized T-Shirt,Women,699,287.0,58.9,2023-01-09,True,True,287,Cotton Blend,Slim Fit,61091000
+TSS-0018,Batman Dark Knight Classic T-Shirt,DC,Classic T-Shirt,Men,699,265.0,62.1,2021-11-15,True,True,220,Cotton Blend,Relaxed Fit,61091000
+TSS-0019,Batman Dark Knight Classic T-Shirt,DC,Classic T-Shirt,Women,899,302.0,66.4,2023-02-09,True,True,284,French Terry,Slim Fit,61091000
+TSS-0020,Batman Dark Knight Hoodie,DC,Hoodie,Men,1399,504.0,64.0,2023-07-18,True,True,224,French Terry,Relaxed Fit,61091000
+TSS-0021,Batman Dark Knight Hoodie,DC,Hoodie,Women,1599,562.0,64.9,2021-10-25,True,True,397,Cotton Blend,Slim Fit,61091000
+TSS-0022,Batman Dark Knight Sweatshirt,DC,Sweatshirt,Men,1299,495.0,61.9,2022-09-11,True,True,376,French Terry,Relaxed Fit,61091000
+TSS-0023,Batman Dark Knight Sweatshirt,DC,Sweatshirt,Women,1299,442.0,66.0,2021-07-22,True,True,241,Polyester Blend,Relaxed Fit,61091000
+TSS-0024,Batman Dark Knight Joggers,DC,Joggers,Men,999,394.0,60.6,2021-09-25,True,True,178,French Terry,Slim Fit,61091000
+TSS-0025,Batman Dark Knight Joggers,DC,Joggers,Women,1199,360.0,70.0,2022-05-29,True,True,60,Polyester Blend,Relaxed Fit,61091000
+TSS-0026,Batman Dark Knight Shorts,DC,Shorts,Men,899,370.0,58.8,2021-09-28,True,True,273,French Terry,Slim Fit,61091000
+TSS-0027,Batman Dark Knight Shorts,DC,Shorts,Women,699,272.0,61.1,2021-04-18,True,True,98,100% Cotton,Regular Fit,61091000
+TSS-0028,Superman Symbol Oversized T-Shirt,DC,Oversized T-Shirt,Men,999,336.0,66.4,2023-09-22,True,True,361,Polyester Blend,Relaxed Fit,61091000
+TSS-0029,Superman Symbol Oversized T-Shirt,DC,Oversized T-Shirt,Women,699,293.0,58.1,2023-03-24,True,True,148,Polyester Blend,Oversized,61091000
+TSS-0030,Superman Symbol Classic T-Shirt,DC,Classic T-Shirt,Men,799,252.0,68.5,2021-05-14,True,True,259,French Terry,Relaxed Fit,61091000
+TSS-0031,Central Perk Classic T-Shirt,Friends,Classic T-Shirt,Men,799,264.0,67.0,2021-10-08,True,True,255,Cotton Blend,Oversized,61091000
+TSS-0032,Central Perk Classic T-Shirt,Friends,Classic T-Shirt,Women,899,341.0,62.1,2021-03-18,True,True,295,100% Cotton,Regular Fit,61091000
+TSS-0033,Central Perk Oversized T-Shirt,Friends,Oversized T-Shirt,Men,899,356.0,60.4,2021-03-15,True,True,62,Polyester Blend,Regular Fit,61091000
+TSS-0034,Central Perk Oversized T-Shirt,Friends,Oversized T-Shirt,Women,899,314.0,65.1,2021-06-19,True,True,84,French Terry,Regular Fit,61091000
+TSS-0035,Central Perk Crop Top,Friends,Crop Top,Men,699,238.0,66.0,2021-08-24,True,True,209,Cotton Blend,Oversized,61091000
+TSS-0036,Central Perk Crop Top,Friends,Crop Top,Women,699,268.0,61.7,2022-03-04,True,True,156,100% Cotton,Oversized,61091000
+TSS-0037,Central Perk Hoodie,Friends,Hoodie,Men,1499,499.0,66.7,2022-11-04,True,True,346,Cotton Blend,Relaxed Fit,61091000
+TSS-0038,Central Perk Hoodie,Friends,Hoodie,Women,1599,605.0,62.2,2023-04-15,True,True,118,Cotton Blend,Relaxed Fit,61091000
+TSS-0039,Central Perk Sweatshirt,Friends,Sweatshirt,Men,1099,402.0,63.4,2021-02-03,True,True,391,French Terry,Relaxed Fit,61091000
+TSS-0040,Central Perk Sweatshirt,Friends,Sweatshirt,Women,1199,485.0,59.5,2023-01-05,True,True,371,Cotton Blend,Slim Fit,61091000
+TSS-0041,How You Doin? Classic T-Shirt,Friends,Classic T-Shirt,Men,599,244.0,59.3,2023-04-09,True,True,156,Polyester Blend,Relaxed Fit,61091000
+TSS-0042,How You Doin? Classic T-Shirt,Friends,Classic T-Shirt,Women,599,190.0,68.3,2022-10-21,True,True,66,Cotton Blend,Oversized,61091000
+TSS-0043,How You Doin? Oversized T-Shirt,Friends,Oversized T-Shirt,Men,699,275.0,60.7,2021-08-30,True,True,368,100% Cotton,Relaxed Fit,61091000
+TSS-0044,How You Doin? Oversized T-Shirt,Friends,Oversized T-Shirt,Women,799,314.0,60.7,2022-01-18,True,True,361,100% Cotton,Oversized,61091000
+TSS-0045,How You Doin? Crop Top,Friends,Crop Top,Men,699,235.0,66.4,2021-06-12,True,True,65,Polyester Blend,Slim Fit,61091000
+TSS-0046,Naruto Nine-Tails Oversized T-Shirt,Anime,Oversized T-Shirt,Men,899,283.0,68.5,2022-03-14,True,True,80,Polyester Blend,Relaxed Fit,61091000
+TSS-0047,Naruto Nine-Tails Oversized T-Shirt,Anime,Oversized T-Shirt,Women,899,361.0,59.8,2022-11-11,True,True,77,French Terry,Slim Fit,61091000
+TSS-0048,Naruto Nine-Tails Classic T-Shirt,Anime,Classic T-Shirt,Men,699,256.0,63.4,2022-12-12,True,True,207,French Terry,Oversized,61091000
+TSS-0049,Naruto Nine-Tails Classic T-Shirt,Anime,Classic T-Shirt,Women,699,224.0,68.0,2022-02-21,True,True,168,Cotton Blend,Slim Fit,61091000
+TSS-0050,Naruto Nine-Tails Hoodie,Anime,Hoodie,Men,1499,601.0,59.9,2021-04-07,True,True,349,100% Cotton,Relaxed Fit,61091000
+TSS-0051,Naruto Nine-Tails Hoodie,Anime,Hoodie,Women,1499,612.0,59.2,2021-07-04,True,True,91,Polyester Blend,Relaxed Fit,61091000
+TSS-0052,Naruto Nine-Tails Sweatshirt,Anime,Sweatshirt,Men,1299,413.0,68.2,2023-08-14,True,True,317,French Terry,Oversized,61091000
+TSS-0053,Naruto Nine-Tails Sweatshirt,Anime,Sweatshirt,Women,999,320.0,68.0,2021-08-27,True,True,127,French Terry,Regular Fit,61091000
+TSS-0054,Naruto Nine-Tails Joggers,Anime,Joggers,Men,1099,396.0,64.0,2021-08-27,True,True,308,Cotton Blend,Regular Fit,61091000
+TSS-0055,Naruto Nine-Tails Joggers,Anime,Joggers,Women,1199,448.0,62.6,2023-07-17,True,True,128,French Terry,Relaxed Fit,61091000
+TSS-0056,One Piece Jolly Roger Oversized T-Shirt,Anime,Oversized T-Shirt,Men,799,320.0,59.9,2021-09-20,True,True,324,100% Cotton,Relaxed Fit,61091000
+TSS-0057,One Piece Jolly Roger Oversized T-Shirt,Anime,Oversized T-Shirt,Women,799,290.0,63.7,2022-12-05,True,True,262,100% Cotton,Relaxed Fit,61091000
+TSS-0058,One Piece Jolly Roger Classic T-Shirt,Anime,Classic T-Shirt,Men,799,271.0,66.1,2022-08-02,True,True,156,100% Cotton,Regular Fit,61091000
+TSS-0059,One Piece Jolly Roger Classic T-Shirt,Anime,Classic T-Shirt,Women,599,211.0,64.8,2021-11-19,True,True,85,Polyester Blend,Relaxed Fit,61091000
+TSS-0060,One Piece Jolly Roger Hoodie,Anime,Hoodie,Men,1599,652.0,59.2,2022-11-19,True,True,355,Polyester Blend,Relaxed Fit,61091000
+TSS-0061,Hogwarts Crest Classic T-Shirt,Harry Potter,Classic T-Shirt,Men,799,251.0,68.6,2021-12-19,True,True,216,Polyester Blend,Relaxed Fit,61091000
+TSS-0062,Hogwarts Crest Classic T-Shirt,Harry Potter,Classic T-Shirt,Women,899,276.0,69.3,2023-09-09,True,False,178,Cotton Blend,Regular Fit,61091000
+TSS-0063,Hogwarts Crest Oversized T-Shirt,Harry Potter,Oversized T-Shirt,Men,999,302.0,69.8,2023-08-22,True,True,252,Cotton Blend,Relaxed Fit,61091000
+TSS-0064,Hogwarts Crest Oversized T-Shirt,Harry Potter,Oversized T-Shirt,Women,699,212.0,69.7,2021-06-30,True,True,235,Polyester Blend,Regular Fit,61091000
+TSS-0065,Hogwarts Crest Hoodie,Harry Potter,Hoodie,Men,1399,493.0,64.8,2022-11-05,True,True,249,French Terry,Oversized,61091000
+TSS-0066,Hogwarts Crest Hoodie,Harry Potter,Hoodie,Women,1699,666.0,60.8,2023-07-16,True,True,227,Polyester Blend,Regular Fit,61091000
+TSS-0067,Hogwarts Crest Sweatshirt,Harry Potter,Sweatshirt,Men,1199,436.0,63.6,2021-03-07,True,True,172,Polyester Blend,Slim Fit,61091000
+TSS-0068,Hogwarts Crest Sweatshirt,Harry Potter,Sweatshirt,Women,999,332.0,66.8,2021-11-11,True,True,184,Cotton Blend,Oversized,61091000
+TSS-0069,Hogwarts Crest Joggers,Harry Potter,Joggers,Men,1199,435.0,63.7,2022-09-09,True,True,99,French Terry,Regular Fit,61091000
+TSS-0070,Hogwarts Crest Joggers,Harry Potter,Joggers,Women,899,300.0,66.6,2023-02-22,True,True,286,French Terry,Slim Fit,61091000
+TSS-0071,Deathly Hallows Classic T-Shirt,Harry Potter,Classic T-Shirt,Men,699,260.0,62.8,2022-07-02,True,True,114,Polyester Blend,Oversized,61091000
+TSS-0072,Deathly Hallows Classic T-Shirt,Harry Potter,Classic T-Shirt,Women,699,215.0,69.2,2023-08-06,True,True,310,Polyester Blend,Regular Fit,61091000
+TSS-0073,Deathly Hallows Oversized T-Shirt,Harry Potter,Oversized T-Shirt,Men,699,214.0,69.4,2021-03-27,True,True,269,Cotton Blend,Oversized,61091000
+TSS-0074,Deathly Hallows Oversized T-Shirt,Harry Potter,Oversized T-Shirt,Women,699,211.0,69.8,2023-03-30,True,True,164,100% Cotton,Regular Fit,61091000
+TSS-0075,Deathly Hallows Hoodie,Harry Potter,Hoodie,Men,1699,679.0,60.0,2023-06-19,True,True,129,Polyester Blend,Relaxed Fit,61091000
+TSS-0076,Pink Floyd Dark Side Classic T-Shirt,Music,Classic T-Shirt,Men,899,281.0,68.7,2023-05-13,True,True,274,French Terry,Regular Fit,61091000
+TSS-0077,Pink Floyd Dark Side Classic T-Shirt,Music,Classic T-Shirt,Women,599,199.0,66.8,2022-06-24,True,True,141,Polyester Blend,Regular Fit,61091000
+TSS-0078,Pink Floyd Dark Side Oversized T-Shirt,Music,Oversized T-Shirt,Men,699,272.0,61.1,2023-04-29,True,False,302,French Terry,Relaxed Fit,61091000
+TSS-0079,Pink Floyd Dark Side Oversized T-Shirt,Music,Oversized T-Shirt,Women,899,334.0,62.8,2021-08-11,True,True,316,Polyester Blend,Oversized,61091000
+TSS-0080,Pink Floyd Dark Side Hoodie,Music,Hoodie,Men,1599,576.0,64.0,2022-10-12,True,True,205,Cotton Blend,Relaxed Fit,61091000
+TSS-0081,Pink Floyd Dark Side Hoodie,Music,Hoodie,Women,1599,578.0,63.9,2023-04-02,True,True,374,Polyester Blend,Regular Fit,61091000
+TSS-0082,Pink Floyd Dark Side Sweatshirt,Music,Sweatshirt,Men,1099,403.0,63.3,2023-03-12,True,True,60,Polyester Blend,Oversized,61091000
+TSS-0083,Pink Floyd Dark Side Sweatshirt,Music,Sweatshirt,Women,999,301.0,69.9,2021-04-01,True,True,114,100% Cotton,Regular Fit,61091000
+TSS-0084,Pink Floyd Dark Side Tote Bag,Music,Tote Bag,Men,499,202.0,59.5,2021-04-01,True,True,212,Cotton Blend,Regular Fit,61091000
+TSS-0085,Pink Floyd Dark Side Tote Bag,Music,Tote Bag,Women,499,193.0,61.3,2022-12-27,True,True,344,Cotton Blend,Regular Fit,61091000
+TSS-0086,Beatles Abbey Road Classic T-Shirt,Music,Classic T-Shirt,Men,599,203.0,66.1,2023-09-16,True,True,212,French Terry,Slim Fit,61091000
+TSS-0087,Beatles Abbey Road Classic T-Shirt,Music,Classic T-Shirt,Women,599,212.0,64.6,2023-09-17,True,True,337,Polyester Blend,Relaxed Fit,61091000
+TSS-0088,Beatles Abbey Road Oversized T-Shirt,Music,Oversized T-Shirt,Men,899,284.0,68.4,2022-12-21,True,True,343,Cotton Blend,Relaxed Fit,61091000
+TSS-0089,Beatles Abbey Road Oversized T-Shirt,Music,Oversized T-Shirt,Women,999,386.0,61.4,2023-09-11,True,True,237,Cotton Blend,Slim Fit,61091000
+TSS-0090,Beatles Abbey Road Hoodie,Music,Hoodie,Men,1399,422.0,69.8,2022-08-31,True,True,125,French Terry,Regular Fit,61091000
+TSS-0091,Game of Thrones Dragon Classic T-Shirt,Movies & TV,Classic T-Shirt,Men,599,218.0,63.6,2023-09-05,True,True,209,Polyester Blend,Relaxed Fit,61091000
+TSS-0092,Game of Thrones Dragon Classic T-Shirt,Movies & TV,Classic T-Shirt,Women,799,306.0,61.7,2023-03-03,True,True,341,Polyester Blend,Regular Fit,61091000
+TSS-0093,Game of Thrones Dragon Oversized T-Shirt,Movies & TV,Oversized T-Shirt,Men,899,315.0,65.0,2022-10-13,True,True,149,100% Cotton,Oversized,61091000
+TSS-0094,Game of Thrones Dragon Oversized T-Shirt,Movies & TV,Oversized T-Shirt,Women,999,351.0,64.9,2022-07-12,True,True,250,French Terry,Slim Fit,61091000
+TSS-0095,Game of Thrones Dragon Hoodie,Movies & TV,Hoodie,Men,1399,574.0,59.0,2023-03-08,True,True,92,Polyester Blend,Regular Fit,61091000
+TSS-0096,Game of Thrones Dragon Hoodie,Movies & TV,Hoodie,Women,1399,481.0,65.6,2021-11-17,True,True,363,100% Cotton,Slim Fit,61091000
+TSS-0097,Game of Thrones Dragon Sweatshirt,Movies & TV,Sweatshirt,Men,1199,418.0,65.1,2021-05-13,True,True,126,Polyester Blend,Regular Fit,61091000
+TSS-0098,Game of Thrones Dragon Sweatshirt,Movies & TV,Sweatshirt,Women,1199,380.0,68.3,2022-02-26,True,True,125,Polyester Blend,Slim Fit,61091000
+TSS-0099,Game of Thrones Dragon Joggers,Movies & TV,Joggers,Men,1199,467.0,61.1,2021-04-05,True,True,236,100% Cotton,Oversized,61091000
+TSS-0100,Game of Thrones Dragon Joggers,Movies & TV,Joggers,Women,999,357.0,64.3,2021-03-09,True,True,214,Cotton Blend,Regular Fit,61091000
+TSS-0101,Breaking Bad Chemistry Classic T-Shirt,Movies & TV,Classic T-Shirt,Men,699,248.0,64.5,2023-03-22,True,False,241,Cotton Blend,Slim Fit,61091000
+TSS-0102,Breaking Bad Chemistry Classic T-Shirt,Movies & TV,Classic T-Shirt,Women,599,184.0,69.3,2023-04-29,True,True,67,French Terry,Relaxed Fit,61091000
+TSS-0103,Breaking Bad Chemistry Oversized T-Shirt,Movies & TV,Oversized T-Shirt,Men,999,359.0,64.1,2023-01-06,True,False,82,Cotton Blend,Relaxed Fit,61091000
+TSS-0104,Breaking Bad Chemistry Oversized T-Shirt,Movies & TV,Oversized T-Shirt,Women,999,322.0,67.8,2021-05-09,True,True,341,French Terry,Slim Fit,61091000
+TSS-0105,Breaking Bad Chemistry Hoodie,Movies & TV,Hoodie,Men,1399,549.0,60.8,2023-01-10,True,True,214,100% Cotton,Regular Fit,61091000
+TSS-0106,IPL 2024 Vibes Classic T-Shirt,Sports,Classic T-Shirt,Men,699,257.0,63.2,2023-05-19,True,True,315,Cotton Blend,Slim Fit,61091000
+TSS-0107,IPL 2024 Vibes Classic T-Shirt,Sports,Classic T-Shirt,Women,799,307.0,61.6,2021-06-03,True,True,76,Polyester Blend,Slim Fit,61091000
+TSS-0108,IPL 2024 Vibes Oversized T-Shirt,Sports,Oversized T-Shirt,Men,799,304.0,62.0,2023-09-07,True,True,150,Polyester Blend,Oversized,61091000
+TSS-0109,IPL 2024 Vibes Oversized T-Shirt,Sports,Oversized T-Shirt,Women,699,242.0,65.4,2022-02-27,True,True,193,Polyester Blend,Oversized,61091000
+TSS-0110,IPL 2024 Vibes Hoodie,Sports,Hoodie,Men,1399,513.0,63.3,2023-02-28,True,True,188,Cotton Blend,Relaxed Fit,61091000
+TSS-0111,IPL 2024 Vibes Hoodie,Sports,Hoodie,Women,1399,446.0,68.1,2023-06-02,True,True,190,Polyester Blend,Oversized,61091000
+TSS-0112,IPL 2024 Vibes Joggers,Sports,Joggers,Men,1099,383.0,65.2,2023-06-25,True,True,144,100% Cotton,Relaxed Fit,61091000
+TSS-0113,IPL 2024 Vibes Joggers,Sports,Joggers,Women,1199,427.0,64.4,2023-01-24,True,True,382,Polyester Blend,Relaxed Fit,61091000
+TSS-0114,IPL 2024 Vibes Shorts,Sports,Shorts,Men,799,294.0,63.2,2022-12-09,True,True,317,French Terry,Relaxed Fit,61091000
+TSS-0115,IPL 2024 Vibes Shorts,Sports,Shorts,Women,899,293.0,67.4,2021-05-01,True,True,263,Polyester Blend,Oversized,61091000
+TSS-0116,Football Silhouette Classic T-Shirt,Sports,Classic T-Shirt,Men,799,271.0,66.1,2021-08-09,True,True,105,Cotton Blend,Relaxed Fit,61091000
+TSS-0117,Football Silhouette Classic T-Shirt,Sports,Classic T-Shirt,Women,899,287.0,68.1,2021-09-08,True,True,177,Polyester Blend,Regular Fit,61091000
+TSS-0118,Football Silhouette Oversized T-Shirt,Sports,Oversized T-Shirt,Men,799,245.0,69.3,2021-02-27,True,True,301,French Terry,Relaxed Fit,61091000
+TSS-0119,Football Silhouette Oversized T-Shirt,Sports,Oversized T-Shirt,Women,899,317.0,64.7,2022-06-02,True,False,153,French Terry,Oversized,61091000
+TSS-0120,Football Silhouette Hoodie,Sports,Hoodie,Men,1599,533.0,66.7,2023-09-11,True,True,133,French Terry,Slim Fit,61091000
+TSS-0121,Solid Essential Classic T-Shirt,Basics,Classic T-Shirt,Men,699,290.0,58.5,2022-03-31,False,True,292,French Terry,Slim Fit,61091000
+TSS-0122,Solid Essential Classic T-Shirt,Basics,Classic T-Shirt,Women,899,336.0,62.6,2023-03-09,False,True,77,French Terry,Relaxed Fit,61091000
+TSS-0123,Solid Essential Oversized T-Shirt,Basics,Oversized T-Shirt,Men,699,239.0,65.8,2021-01-12,False,True,220,100% Cotton,Relaxed Fit,61091000
+TSS-0124,Solid Essential Oversized T-Shirt,Basics,Oversized T-Shirt,Women,799,324.0,59.4,2021-05-05,False,True,340,French Terry,Regular Fit,61091000
+TSS-0125,Solid Essential Polo T-Shirt,Basics,Polo T-Shirt,Men,799,252.0,68.5,2023-02-02,False,True,172,Polyester Blend,Regular Fit,61091000
+TSS-0126,Solid Essential Polo T-Shirt,Basics,Polo T-Shirt,Women,999,384.0,61.6,2021-03-03,False,True,162,100% Cotton,Relaxed Fit,61091000
+TSS-0127,Solid Essential Hoodie,Basics,Hoodie,Men,1499,619.0,58.7,2021-07-31,False,True,63,Cotton Blend,Oversized,61091000
+TSS-0128,Solid Essential Hoodie,Basics,Hoodie,Women,1599,571.0,64.3,2023-04-29,False,True,232,Cotton Blend,Slim Fit,61091000
+TSS-0129,Solid Essential Joggers,Basics,Joggers,Men,899,339.0,62.3,2021-04-18,False,True,81,Cotton Blend,Oversized,61091000
+TSS-0130,Solid Essential Joggers,Basics,Joggers,Women,1099,431.0,60.8,2023-05-08,False,True,155,French Terry,Slim Fit,61091000
+TSS-0131,Minimal Logo Classic T-Shirt,Basics,Classic T-Shirt,Men,799,315.0,60.6,2022-05-07,False,True,67,French Terry,Regular Fit,61091000
+TSS-0132,Minimal Logo Classic T-Shirt,Basics,Classic T-Shirt,Women,799,291.0,63.6,2021-04-03,False,True,74,French Terry,Slim Fit,61091000
+TSS-0133,Minimal Logo Oversized T-Shirt,Basics,Oversized T-Shirt,Men,699,224.0,68.0,2022-01-03,False,True,233,Polyester Blend,Slim Fit,61091000
+TSS-0134,Minimal Logo Oversized T-Shirt,Basics,Oversized T-Shirt,Women,899,312.0,65.3,2022-09-10,False,True,400,Polyester Blend,Regular Fit,61091000
+TSS-0135,Minimal Logo Polo T-Shirt,Basics,Polo T-Shirt,Men,799,304.0,62.0,2021-03-15,False,True,163,100% Cotton,Slim Fit,61091000
+TSS-0136,Mandala Elephant Classic T-Shirt,Original Art,Classic T-Shirt,Men,899,363.0,59.6,2023-09-28,False,True,185,100% Cotton,Relaxed Fit,61091000
+TSS-0137,Mandala Elephant Classic T-Shirt,Original Art,Classic T-Shirt,Women,799,317.0,60.3,2022-02-11,False,True,393,100% Cotton,Slim Fit,61091000
+TSS-0138,Mandala Elephant Oversized T-Shirt,Original Art,Oversized T-Shirt,Men,899,290.0,67.7,2021-10-03,False,True,151,Cotton Blend,Regular Fit,61091000
+TSS-0139,Mandala Elephant Oversized T-Shirt,Original Art,Oversized T-Shirt,Women,699,223.0,68.1,2021-11-09,False,True,300,Cotton Blend,Regular Fit,61091000
+TSS-0140,Mandala Elephant Hoodie,Original Art,Hoodie,Men,1499,501.0,66.6,2021-12-29,False,True,186,Polyester Blend,Relaxed Fit,61091000
+TSS-0141,Mandala Elephant Hoodie,Original Art,Hoodie,Women,1399,461.0,67.0,2022-03-18,False,True,366,100% Cotton,Relaxed Fit,61091000
+TSS-0142,Mandala Elephant Sweatshirt,Original Art,Sweatshirt,Men,999,376.0,62.4,2022-12-04,False,True,310,French Terry,Slim Fit,61091000
+TSS-0143,Mandala Elephant Sweatshirt,Original Art,Sweatshirt,Women,1099,461.0,58.1,2023-05-09,False,True,179,Cotton Blend,Oversized,61091000
+TSS-0144,Mandala Elephant Tote Bag,Original Art,Tote Bag,Men,699,233.0,66.7,2023-09-14,False,True,160,French Terry,Relaxed Fit,61091000
+TSS-0145,Mandala Elephant Tote Bag,Original Art,Tote Bag,Women,599,217.0,63.8,2023-01-03,False,True,234,French Terry,Relaxed Fit,61091000
+TSS-0146,Rajasthani Art Classic T-Shirt,Original Art,Classic T-Shirt,Men,599,220.0,63.3,2023-01-05,False,False,76,Cotton Blend,Slim Fit,61091000
+TSS-0147,Rajasthani Art Classic T-Shirt,Original Art,Classic T-Shirt,Women,899,271.0,69.9,2021-03-31,False,True,187,100% Cotton,Regular Fit,61091000
+TSS-0148,Rajasthani Art Oversized T-Shirt,Original Art,Oversized T-Shirt,Men,699,215.0,69.2,2021-01-20,False,True,197,Polyester Blend,Slim Fit,61091000
+TSS-0149,Rajasthani Art Oversized T-Shirt,Original Art,Oversized T-Shirt,Women,799,282.0,64.7,2022-09-06,False,False,152,French Terry,Relaxed Fit,61091000
+TSS-0150,Rajasthani Art Hoodie,Original Art,Hoodie,Men,1699,575.0,66.2,2021-03-20,False,True,219,Polyester Blend,Regular Fit,61091000
