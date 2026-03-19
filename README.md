@@ -1,6 +1,6 @@
 The Souled Store — Category Analytics Portfolio Project  
 Author: Jayesh Bedse
-Tools Demonstrated: Python (pandas · numpy · matplotlib · seaborn) · SQL (PostgreSQL) 
+Tools Demonstrated: Python (pandas · numpy · matplotlib · seaborn) · SQL
 ---
 Project Overview
 This project simulates the end-to-end Category analytics workflow at The Souled Store — India's leading pop-culture merchandise brand. 
